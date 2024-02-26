@@ -1,5 +1,4 @@
 
-
 typedef struct {
 	NodePtr headPtr,tailPtr;
 	int size;
